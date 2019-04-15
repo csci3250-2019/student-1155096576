@@ -31,3 +31,5 @@ I am a penultimate year student of **Computer Science** at CUHK with an aim to s
 ## COMMAND-LINE SCREENSHOT
 
 ![](/image1.png)
+
+![](/image2.png)
