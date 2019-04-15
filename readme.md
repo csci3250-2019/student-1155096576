@@ -27,3 +27,7 @@ I am a penultimate year student of **Computer Science** at CUHK with an aim to s
 | Nationality:                    | Pakistani       |
 | Favourite Programming Language: | Python          |
 | Favourite CS Course:            | Data Structures |
+
+## COMMAND-LINE SCREENSHOT
+
+![](/Users/ali_ahad/Desktop/Screenshot.png)
