@@ -30,4 +30,4 @@ I am a penultimate year student of **Computer Science** at CUHK with an aim to s
 
 ## COMMAND-LINE SCREENSHOT
 
-![](/Users/ali_ahad/Desktop/Screenshot.png)
+![](/image1.png)
